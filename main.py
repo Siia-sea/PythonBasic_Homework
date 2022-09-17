@@ -7,3 +7,4 @@ if a >= 10 and b >= 10 and c >= 10:
         print('YES')
     else:
         print('NO')
+
